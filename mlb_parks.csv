@@ -1,0 +1,31 @@
+,Venue,latitude,longitude,address,team_id,team_name
+0,Minute Maid Park,29.75723205,-95.35523391491142,"Minute Maid Park, 501, Crawford Street, Houston, Harris County, Texas, 77004, United States",117,Houston Astros
+1,Busch Stadium,38.6225538,-90.19392193458768,"Busch Stadium, 700, Clark Avenue, Downtown, St. Louis, Missouri, 63101, United States",138,St. Louis Cardinals
+2,Wrigley Field,41.94813535,-87.65635154722081,"Wrigley Field, 1060, West Addison Street, Wrigleyville, Lake View, Chicago, Lake View Township, Cook County, Illinois, 60613, United States",112,Chi Cubs Cubs
+3,Globe Life Field,32.74760655,-97.08410630166019,"Globe Life Field, Cowboys Way, Arlington, Tarrant County, Texas, 76011, United States",140,Texas Rangers
+4,Nationals Park,38.87274095,-77.00838588569519,"Nationals Park, 1500, South Capitol Street Southeast, Washington, District of Columbia, 20590, United States",120,Washington Nationals
+5,Yankee Stadium,40.82958275,-73.92652118491901,"Yankee Stadium, 1, East 161st Street, Bronx County, City of New York, New York, 10451, The Bronx",147,NY Yankees Yankees
+6,Oakland Coliseum,37.7539702,-122.1972051,"Coliseum, San Leandro Street, Oakland, Alameda County, CAL Fire Northern Region, California, 94621, United States",133,Oakland Athletics
+7,Fenway Park,42.3464621,-71.0971002033302,"Fenway Park, 4, Jersey Street, Audubon Square, Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",111,Boston Red Sox
+8,Great American Ball Park,39.097248449999995,-84.50662325533993,"Great American Ball Park, Ohio River Trail, Lytle Park Historic District, Central Business District, Cincinnati, Hamilton County, Ohio, 45202, United States",113,Cincinnati Reds
+9,Tropicana Field,27.7680559,-82.65327550461797,"Tropicana Field, Pinellas Trail, Methodist Town, Saint Petersburg, Pinellas County, Florida, 33701, United States",139,Tampa Bay Rays
+10,Kauffman Stadium,39.0514715,-94.48139730530374,"Kauffman Stadium, 1, Royal Way, Kansas City, Jackson County, Missouri, 64129, United States",118,Kansas City Royals
+11,loanDepot park,25.778247399999998,-80.21980500744203,"LoanDepot Park, Northwest 15th Avenue, Latin Quarter, Miami, Miami-Dade County, Florida, 33128, United States",146,Miami Marlins
+12,Petco Park,32.70718815,-117.15687730689476,"Petco Park, 100, Park Boulevard, East Village, San Diego, San Diego County, CAL Fire Southern Region, California, 92101, United States",135,San Diego Padres
+13,Dodger Stadium,34.0736263,-118.23897581574036,"Dodger Stadium, 1000, Vin Scully Avenue, Chinatown, Los Angeles, Los Angeles County, CAL Fire Southern Region, California, 90012, United States",119,LA Dodgers Dodgers
+14,T-Mobile Park,47.59122645,-122.33256510340122,"T-Mobile Park, T-Mobile Park Concourse, International District/Chinatown, Seattle, King County, Washington, 98104, United States",136,Seattle Mariners
+15,American Family Field,43.0280619,-87.97209586840818,"American Family Field, 1, Brewers Way, Story Hill, Milwaukee, Milwaukee County, Wisconsin, 53214, United States",158,Milwaukee Brewers
+16,Guaranteed Rate Field,41.8300162,-87.63256264837347,"Guaranteed Rate Field, 333, West 35th Street, Armour Square, Chicago, Cook County, Illinois, 60616, United States",145,Chi White Sox White Sox
+17,Comerica Park,42.33915895,-83.0496248178274,"Comerica Park, John R Street, Brush Park, Midtown, Detroit, Wayne County, Michigan, 48203, United States",116,Detroit Tigers
+18,Coors Field,39.7560314,-104.99292855531493,"Coors Field, 2001, Blake Street, Five Points, Denver, Colorado, 80205, United States",115,Colorado Rockies
+19,Truist Park,33.89070855,-84.46853422885837,"Truist Park, 755, Battery Avenue Southeast, The Battery Atlanta, Vinings, Cobb County, Georgia, 30339, United States",144,Atlanta Braves
+20,Chase Field,33.44548555,-112.06669283293144,"Chase Field, East Jefferson Street, Phoenix, Maricopa County, Arizona, 85004, United States",109,Arizona D-backs
+21,Citi Field,40.757277849999994,-73.84587884942417,"Citi Field, 41, Seaver Way, Queens, City of New York, New York, 11368, United States",121,NY Mets Mets
+22,Citizens Bank Park,39.905885749999996,-75.16541101747245,"Citizens Bank Park, Pattison Avenue, South Philadelphia Sports Complex, South Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19145, United States",143,Philadelphia Phillies
+23,Oriole Park at Camden Yards,39.283738299999996,-76.62160555637811,"Oriole Park at Camden Yards, Eutaw Street, South Baltimore, Baltimore, Maryland, 21240, United States",110,Baltimore Orioles
+24,Target Field,44.98168445,-93.27786434576453,"Target Field, 1, Twins Way, Minneapolis, Hennepin County, Minnesota, 55403, United States",142,Minnesota Twins
+25,Progressive Field,41.496090550000005,-81.68513191630367,"Progressive Field, 2401, Ontario Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44115, United States",114,Cleveland Guardians
+26,PNC Park,40.4469258,-80.00560626612204,"PNC Park, North Shore Trail, North Shore, Pittsburgh, Allegheny County, Pennsylvania, 15222, United States",134,Pittsburgh Pirates
+27,Oracle Park,37.7786119,-122.39026745425639,"Oracle Park, 24, Willie Mays Plaza, Port of San Francisco, San Francisco, CAL Fire Northern Region, California, 94107, United States",137,San Francisco Giants
+28,Angel Stadium,39.500658599999994,-104.81109784532703,"EchoPark Stadium, Double Angel Road, Parker, Douglas County, Colorado, 80134, United States",108,LA Angels Angels
+29,Rogers Centre,43.641659849999996,-79.38919761915824,"Rogers Centre, 1, Blue Jays Way, Spadina—Fort York, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5V 1J1, Canada",141,Toronto Blue Jays

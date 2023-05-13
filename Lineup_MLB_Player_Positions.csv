@@ -1,0 +1,1023 @@
+,player_id,player_name,player_team_id,player_team_name,player_position
+0,642758,Domingo Acevedo,133,Oakland Athletics,Pitcher
+0,542583,Jesus Aguilar,133,Oakland Athletics,Infielder
+0,669397,Nick Allen,133,Oakland Athletics,Infielder
+0,668709,JJ Bleday,133,Oakland Athletics,Outfielder
+0,664913,Seth Brown,133,Oakland Athletics,Outfielder
+0,668843,Conner Capel,133,Oakland Athletics,Outfielder
+0,649557,Aledmys Diaz,133,Oakland Athletics,Infielder
+0,672478,Jordan Diaz,133,Oakland Athletics,Infielder
+0,544727,Jeurys Familia,133,Oakland Athletics,Pitcher
+0,660261,Shintaro Fujinami,133,Oakland Athletics,Pitcher
+0,670329,Rico Garcia,133,Oakland Athletics,Pitcher
+0,663687,Hogan Harris,133,Oakland Athletics,Pitcher
+0,667427,Zach Jackson,133,Oakland Athletics,Pitcher
+0,666204,Dany Jimenez,133,Oakland Athletics,Pitcher
+0,621076,James Kaprielian,133,Oakland Athletics,Pitcher
+0,643393,Tony Kemp,133,Oakland Athletics,Infielder
+0,669127,Shea Langeliers,133,Oakland Athletics,Catcher
+0,657656,Ramon Laureano,133,Oakland Athletics,Outfielder
+0,669674,Sam Long,133,Oakland Athletics,Pitcher
+0,663992,Richard Lovelady,133,Oakland Athletics,Pitcher
+0,661309,Adrian Martinez,133,Oakland Athletics,Pitcher
+0,543507,Trevor May,133,Oakland Athletics,Pitcher
+0,665622,Luis Medina,133,Oakland Athletics,Pitcher
+0,695243,Mason Miller,133,Oakland Athletics,Pitcher
+0,594580,Sam Moll,133,Oakland Athletics,Pitcher
+0,666205,Kyle Muller,133,Oakland Athletics,Pitcher
+0,676116,Ryan Noda,133,Oakland Athletics,Infielder
+0,670124,Adam Oller,133,Oakland Athletics,Pitcher
+0,607359,Spencer Patton,133,Oakland Athletics,Pitcher
+0,542208,Carlos Perez,133,Oakland Athletics,Catcher
+0,607054,Jace Peterson,133,Oakland Athletics,Infielder
+0,643493,Austin Pruitt,133,Oakland Athletics,Pitcher
+0,667670,Brent Rooker,133,Oakland Athletics,Outfielder
+0,607968,Drew Rucinski,133,Oakland Athletics,Pitcher
+0,665923,Esteury Ruiz,133,Oakland Athletics,Outfielder
+0,676664,JP Sears,133,Oakland Athletics,Pitcher
+0,663385,Chad Smith,133,Oakland Athletics,Pitcher
+0,675656,Kevin Smith,133,Oakland Athletics,Infielder
+0,642180,Tyler Wade,133,Oakland Athletics,Outfielder
+0,686610,Ken Waldichuk,133,Oakland Athletics,Pitcher
+0,542881,Tyler Anderson,108,Los Angeles Angels,Pitcher
+0,642545,Jaime Barria,108,Los Angeles Angels,Pitcher
+0,656288,Griffin Canning,108,Los Angeles Angels,Pitcher
+0,656353,Tucker Davidson,108,Los Angeles Angels,Pitcher
+0,672282,Reid Detmers,108,Los Angeles Angels,Pitcher
+0,606965,Chris Devenski,108,Los Angeles Angels,Pitcher
+0,592273,Brandon Drury,108,Los Angeles Angels,Infielder
+0,608032,Carlos Estevez,108,Los Angeles Angels,Pitcher
+0,664058,David Fletcher,108,Los Angeles Angels,Infielder
+0,623474,Jimmy Herget,108,Los Angeles Angels,Pitcher
+0,571875,Jake Lamb,108,Los Angeles Angels,Infielder
+0,571901,Aaron Loup,108,Los Angeles Angels,Pitcher
+0,519043,Matt Moore,108,Los Angeles Angels,Pitcher
+0,687263,Zach Neto,108,Los Angeles Angels,Infielder
+0,681351,Logan O'Hoppe,108,Los Angeles Angels,Catcher
+0,660271,Shohei Ohtani,108,Los Angeles Angels,Two-Way Player
+0,621433,Brett Phillips,108,Los Angeles Angels,Outfielder
+0,650671,Jose Quijada,108,Los Angeles Angels,Pitcher
+0,543685,Anthony Rendon,108,Los Angeles Angels,Infielder
+0,592669,Hunter Renfroe,108,Los Angeles Angels,Outfielder
+0,650859,Luis Rengifo,108,Los Angeles Angels,Infielder
+0,663776,Patrick Sandoval,108,Los Angeles Angels,Pitcher
+0,681217,Chase Silseth,108,Los Angeles Angels,Pitcher
+0,660761,Jose Suarez,108,Los Angeles Angels,Pitcher
+0,572193,Ryan Tepera,108,Los Angeles Angels,Pitcher
+0,642136,Matt Thaiss,108,Los Angeles Angels,Catcher
+0,545361,Mike Trout,108,Los Angeles Angels,Outfielder
+0,570482,Gio Urshela,108,Los Angeles Angels,Infielder
+0,595453,Chad Wallach,108,Los Angeles Angels,Catcher
+0,681806,Andrew Wantz,108,Los Angeles Angels,Pitcher
+0,621493,Taylor Ward,108,Los Angeles Angels,Outfielder
+0,681810,Austin Warren,108,Los Angeles Angels,Pitcher
+0,666374,Matt Brash,136,Seattle Mariners,Pitcher
+0,656266,J.B. Bukauskas,136,Seattle Mariners,Pitcher
+0,676609,Jose Caballero,136,Seattle Mariners,Infielder
+0,650895,Diego Castillo,136,Seattle Mariners,Pitcher
+0,622491,Luis Castillo,136,Seattle Mariners,Pitcher
+0,641487,J.P. Crawford,136,Seattle Mariners,Infielder
+0,670036,Matt Festa,136,Seattle Mariners,Pitcher
+0,623167,Chris Flexen,136,Seattle Mariners,Pitcher
+0,664034,Ty France,136,Seattle Mariners,Infielder
+0,669302,Logan Gilbert,136,Seattle Mariners,Pitcher
+0,594835,Marco Gonzales,136,Seattle Mariners,Pitcher
+0,641627,Trevor Gott,136,Seattle Mariners,Pitcher
+0,664059,Sam Haggerty,136,Seattle Mariners,Infielder
+0,606192,Teoscar Hernandez,136,Seattle Mariners,Outfielder
+0,669450,Cooper Hummel,136,Seattle Mariners,Hitter
+0,672284,Jarred Kelenic,136,Seattle Mariners,Outfielder
+0,669923,George Kirby,136,Seattle Mariners,Pitcher
+0,600303,Tommy La Stella,136,Seattle Mariners,Hitter
+0,670766,Darren McCaughan,136,Seattle Mariners,Pitcher
+0,668834,Easton McGee,136,Seattle Mariners,Pitcher
+0,682243,Bryce Miller,136,Seattle Mariners,Pitcher
+0,543548,Tommy Milone,136,Seattle Mariners,Pitcher
+0,662253,Andres Munoz,136,Seattle Mariners,Pitcher
+0,682171,Penn Murfee,136,Seattle Mariners,Pitcher
+0,608596,Tom Murphy,136,Seattle Mariners,Catcher
+0,572041,AJ Pollock,136,Seattle Mariners,Hitter
+0,663728,Cal Raleigh,136,Seattle Mariners,Catcher
+0,592662,Robbie Ray,136,Seattle Mariners,Pitcher
+0,642578,Jose Rodriguez,136,Seattle Mariners,Pitcher
+0,677594,Julio Rodriguez,136,Seattle Mariners,Outfielder
+0,642048,Tayler Saucedo,136,Seattle Mariners,Pitcher
+0,623149,Paul Sewald,136,Seattle Mariners,Pitcher
+0,642100,Gabe Speier,136,Seattle Mariners,Pitcher
+0,553993,Eugenio Suarez,136,Seattle Mariners,Infielder
+0,672730,Juan Then,136,Seattle Mariners,Pitcher
+0,623437,Justin Topa,136,Seattle Mariners,Pitcher
+0,666211,Taylor Trammell,136,Seattle Mariners,Outfielder
+0,543939,Kolten Wong,136,Seattle Mariners,Infielder
+0,640492,Jose Azocar,135,San Diego Padres,Outfielder
+0,593428,Xander Bogaerts,135,San Diego Padres,Infielder
+0,669134,Luis Campusano,135,San Diego Padres,Catcher
+0,572761,Matt Carpenter,135,San Diego Padres,Hitter
+0,676680,Tom Cosgrove,135,San Diego Padres,Pitcher
+0,622503,Nabil Crismatt,135,San Diego Padres,Pitcher
+0,630105,Jake Cronenworth,135,San Diego Padres,Infielder
+0,443558,Nelson Cruz,135,San Diego Padres,Hitter
+0,621311,David Dahl,135,San Diego Padres,Outfielder
+0,506433,Yu Darvish,135,San Diego Padres,Pitcher
+0,641525,Brandon Dixon,135,San Diego Padres,Outfielder
+0,472610,Luis Garcia,135,San Diego Padres,Pitcher
+0,663757,Trent Grisham,135,San Diego Padres,Outfielder
+0,623352,Josh Hader,135,San Diego Padres,Pitcher
+0,657612,Tim Hill,135,San Diego Padres,Pitcher
+0,641703,Brent Honeywell,135,San Diego Padres,Pitcher
+0,678061,Ray Kerr,135,San Diego Padres,Pitcher
+0,673490,Ha-Seong Kim,135,San Diego Padres,Infielder
+0,663753,Reiss Knehr,135,San Diego Padres,Pitcher
+0,607625,Seth Lugo,135,San Diego Padres,Pitcher
+0,592518,Manny Machado,135,San Diego Padres,Infielder
+0,607259,Nick Martinez,135,San Diego Padres,Pitcher
+0,605397,Joe Musgrove,135,San Diego Padres,Pitcher
+0,543592,Austin Nola,135,San Diego Padres,Catcher
+0,596059,Rougned Odor,135,San Diego Padres,Outfielder
+0,605483,Blake Snell,135,San Diego Padres,Pitcher
+0,665742,Juan Soto,135,San Diego Padres,Outfielder
+0,664954,Brett Sullivan,135,San Diego Padres,Catcher
+0,593619,Domingo Tapia,135,San Diego Padres,Pitcher
+0,665487,Fernando Tatis Jr.,135,San Diego Padres,Outfielder
+0,608379,Michael Wacha,135,San Diego Padres,Pitcher
+0,677960,Ryan Weathers,135,San Diego Padres,Pitcher
+0,621051,Steven Wilson,135,San Diego Padres,Pitcher
+0,605113,Nick Ahmed,109,Arizona Diamondbacks,Infielder
+0,518516,Madison Bumgarner,109,Arizona Diamondbacks,Pitcher
+0,682998,Corbin Carroll,109,Arizona Diamondbacks,Outfielder
+0,612434,Miguel Castro,109,Arizona Diamondbacks,Pitcher
+0,605177,Andrew Chafin,109,Arizona Diamondbacks,Pitcher
+0,605200,Zach Davies,109,Arizona Diamondbacks,Pitcher
+0,666150,Dominic Fletcher,109,Arizona Diamondbacks,Outfielder
+0,666818,Luis Frias,109,Arizona Diamondbacks,Pitcher
+0,668678,Zac Gallen,109,Arizona Diamondbacks,Pitcher
+0,656464,Kevin Ginkel,109,Arizona Diamondbacks,Pitcher
+0,666971,Lourdes Gurriel Jr.,109,Arizona Diamondbacks,Outfielder
+0,674072,Tommy Henry,109,Arizona Diamondbacks,Pitcher
+0,645444,Jose Herrera,109,Arizona Diamondbacks,Catcher
+0,686753,Drey Jameson,109,Arizona Diamondbacks,Pitcher
+0,518876,Merrill Kelly,109,Arizona Diamondbacks,Pitcher
+0,641786,Kyle Lewis,109,Arizona Diamondbacks,Hitter
+0,446334,Evan Longoria,109,Arizona Diamondbacks,Infielder
+0,573009,Joe Mantiply,109,Arizona Diamondbacks,Pitcher
+0,606466,Ketel Marte,109,Arizona Diamondbacks,Infielder
+0,664983,Jake McCarthy,109,Arizona Diamondbacks,Outfielder
+0,543518,Scott McGough,109,Arizona Diamondbacks,Pitcher
+0,664948,Anthony Misiewicz,109,Arizona Diamondbacks,Pitcher
+0,672515,Gabriel Moreno,109,Arizona Diamondbacks,Catcher
+0,669459,Kyle Nelson,109,Arizona Diamondbacks,Pitcher
+0,669194,Ryne Nelson,109,Arizona Diamondbacks,Pitcher
+0,672695,Geraldo Perdomo,109,Arizona Diamondbacks,Infielder
+0,694297,Brandon Pfaadt,109,Arizona Diamondbacks,Pitcher
+0,656896,Emmanuel Rivera,109,Arizona Diamondbacks,Infielder
+0,668942,Josh Rojas,109,Arizona Diamondbacks,Infielder
+0,614179,Jose Ruiz,109,Arizona Diamondbacks,Pitcher
+0,656976,Pavin Smith,109,Arizona Diamondbacks,Hitter
+0,656981,Peter Solomon,109,Arizona Diamondbacks,Pitcher
+0,642121,Cole Sulser,109,Arizona Diamondbacks,Pitcher
+0,677950,Alek Thomas,109,Arizona Diamondbacks,Outfielder
+0,672841,Carlos Vargas,109,Arizona Diamondbacks,Pitcher
+0,572233,Christian Walker,109,Arizona Diamondbacks,Infielder
+0,593643,Hanser Alberto,145,Chicago White Sox,Infielder
+0,641313,Tim Anderson,145,Chicago White Sox,Infielder
+0,462101,Elvis Andrus,145,Chicago White Sox,Infielder
+0,621383,Tanner Banks,145,Chicago White Sox,Pitcher
+0,643217,Andrew Benintendi,145,Chicago White Sox,Outfielder
+0,607481,Aaron Bummer,145,Chicago White Sox,Pitcher
+0,669394,Jake Burger,145,Chicago White Sox,Infielder
+0,656302,Dylan Cease,145,Chicago White Sox,Pitcher
+0,605182,Mike Clevinger,145,Chicago White Sox,Pitcher
+0,693049,Oscar Colas,145,Chicago White Sox,Outfielder
+0,517008,Alex Colome,145,Chicago White Sox,Pitcher
+0,518617,Jake Diekman,145,Chicago White Sox,Pitcher
+0,608337,Lucas Giolito,145,Chicago White Sox,Pitcher
+0,663853,Romy Gonzalez,145,Chicago White Sox,Outfielder
+0,518735,Yasmani Grandal,145,Chicago White Sox,Catcher
+0,608665,Kendall Graveman,145,Chicago White Sox,Pitcher
+0,571740,Billy Hamilton,145,Chicago White Sox,Outfielder
+0,656514,Adam Haseley,145,Chicago White Sox,Outfielder
+0,650391,Eloy Jimenez,145,Chicago White Sox,Hitter
+0,523260,Joe Kelly,145,Chicago White Sox,Pitcher
+0,656629,Michael Kopech,145,Chicago White Sox,Pitcher
+0,669424,Jimmy Lambert,145,Chicago White Sox,Pitcher
+0,625643,Reynaldo Lopez,145,Chicago White Sox,Pitcher
+0,458681,Lance Lynn,145,Chicago White Sox,Pitcher
+0,641871,Keynan Middleton,145,Chicago White Sox,Pitcher
+0,660162,Yoan Moncada,145,Chicago White Sox,Infielder
+0,671111,Sammy Peralta,145,Chicago White Sox,Pitcher
+0,673357,Luis Robert Jr.,145,Chicago White Sox,Outfielder
+0,614179,Jose Ruiz,145,Chicago White Sox,Pitcher
+0,666619,Gregory Santos,145,Chicago White Sox,Pitcher
+0,669947,Jesse Scholtens,145,Chicago White Sox,Pitcher
+0,657757,Gavin Sheets,145,Chicago White Sox,Hitter
+0,672820,Lenyn Sosa,145,Chicago White Sox,Infielder
+0,683734,Andrew Vaughn,145,Chicago White Sox,Infielder
+0,664874,Seby Zavala,145,Chicago White Sox,Catcher
+0,453268,Daniel Bard,115,Colorado Rockies,Pitcher
+0,656234,Jake Bird,115,Colorado Rockies,Pitcher
+0,621389,Ty Blach,115,Colorado Rockies,Pitcher
+0,453568,Charlie Blackmon,115,Colorado Rockies,Hitter
+0,592178,Kris Bryant,115,Colorado Rockies,Outfielder
+0,605612,Harold Castro,115,Colorado Rockies,Outfielder
+0,543068,C.J. Cron,115,Colorado Rockies,Infielder
+0,663562,Noah Davis,115,Colorado Rockies,Pitcher
+0,602074,Yonathan Daza,115,Colorado Rockies,Outfielder
+0,553869,Elias Diaz,115,Colorado Rockies,Catcher
+0,686668,Brenton Doyle,115,Colorado Rockies,Outfielder
+0,663372,Ryan Feltner,115,Colorado Rockies,Pitcher
+0,607536,Kyle Freeland,115,Colorado Rockies,Pitcher
+0,596295,Austin Gomber,115,Colorado Rockies,Pitcher
+0,545341,Randal Grichuk,115,Colorado Rockies,Outfielder
+0,543272,Brad Hand,115,Colorado Rockies,Pitcher
+0,572955,Pierce Johnson,115,Colorado Rockies,Pitcher
+0,659275,Dinelson Lamet,115,Colorado Rockies,Pitcher
+0,664875,Justin Lawrence,115,Colorado Rockies,Pitcher
+0,608566,German Marquez,115,Colorado Rockies,Pitcher
+0,641857,Ryan McMahon,115,Colorado Rockies,Infielder
+0,683232,Nick Mears,115,Colorado Rockies,Pitcher
+0,660707,Elehuris Montero,115,Colorado Rockies,Infielder
+0,519058,Mike Moustakas,115,Colorado Rockies,Infielder
+0,595777,Jurickson Profar,115,Colorado Rockies,Outfielder
+0,657756,Connor Seabold,115,Colorado Rockies,Pitcher
+0,622608,Antonio Senzatela,115,Colorado Rockies,Pitcher
+0,661531,Brian Serven,115,Colorado Rockies,Catcher
+0,608718,Brent Suter,115,Colorado Rockies,Pitcher
+0,678662,Ezequiel Tovar,115,Colorado Rockies,Infielder
+0,676701,Alan Trejo,115,Colorado Rockies,Infielder
+0,570632,Jose Urena,115,Colorado Rockies,Pitcher
+0,642851,Austin Wynns,115,Colorado Rockies,Catcher
+0,642715,Willy Adames,158,Milwaukee Brewers,Infielder
+0,605119,Brian Anderson,158,Milwaukee Brewers,Infielder
+0,670712,Mike Brosseau,158,Milwaukee Brewers,Infielder
+0,669203,Corbin Burnes,158,Milwaukee Brewers,Pitcher
+0,456713,Matt Bush,158,Milwaukee Brewers,Pitcher
+0,605170,Victor Caratini,158,Milwaukee Brewers,Catcher
+0,592222,Alex Claudio,158,Milwaukee Brewers,Pitcher
+0,661388,William Contreras,158,Milwaukee Brewers,Catcher
+0,664776,Jake Cousins,158,Milwaukee Brewers,Pitcher
+0,642770,Javy Guerra,158,Milwaukee Brewers,Pitcher
+0,676083,Janson Junk,158,Milwaukee Brewers,Pitcher
+0,641778,Eric Lauer,158,Milwaukee Brewers,Pitcher
+0,489119,Wade Miley,158,Milwaukee Brewers,Pitcher
+0,680911,Owen Miller,158,Milwaukee Brewers,Infielder
+0,668338,Tyson Miller,158,Milwaukee Brewers,Pitcher
+0,571948,Hoby Milner,158,Milwaukee Brewers,Pitcher
+0,669003,Garrett Mitchell,158,Milwaukee Brewers,Outfielder
+0,606303,Joel Payamps,158,Milwaukee Brewers,Pitcher
+0,665625,Elvis Peguero,158,Milwaukee Brewers,Pitcher
+0,642547,Freddy Peralta,158,Milwaukee Brewers,Pitcher
+0,663368,Blake Perkins,158,Milwaukee Brewers,Outfielder
+0,607067,Colin Rea,158,Milwaukee Brewers,Pitcher
+0,657265,Peter Strzelecki,158,Milwaukee Brewers,Pitcher
+0,621438,Tyrone Taylor,158,Milwaukee Brewers,Outfielder
+0,642133,Rowdy Tellez,158,Milwaukee Brewers,Infielder
+0,668930,Brice Turang,158,Milwaukee Brewers,Infielder
+0,649966,Luis Urias,158,Milwaukee Brewers,Infielder
+0,681402,Gus Varland,158,Milwaukee Brewers,Pitcher
+0,572228,Luke Voit,158,Milwaukee Brewers,Infielder
+0,686894,Joey Wiemer,158,Milwaukee Brewers,Outfielder
+0,642207,Devin Williams,158,Milwaukee Brewers,Pitcher
+0,669060,Bryse Wilson,158,Milwaukee Brewers,Pitcher
+0,608385,Jesse Winker,158,Milwaukee Brewers,Hitter
+0,605540,Brandon Woodruff,158,Milwaukee Brewers,Pitcher
+0,592885,Christian Yelich,158,Milwaukee Brewers,Outfielder
+0,640470,Adbert Alzolay,112,Chicago Cubs,Pitcher
+0,665804,Miguel Amaya,112,Chicago Cubs,Catcher
+0,665871,Javier Assad,112,Chicago Cubs,Pitcher
+0,571466,Tucker Barnhart,112,Chicago Cubs,Catcher
+0,641355,Cody Bellinger,112,Chicago Cubs,Outfielder
+0,502202,Brad Boxberger,112,Chicago Cubs,Pitcher
+0,669093,Jeremiah Estrada,112,Chicago Cubs,Pitcher
+0,605242,Michael Fulmer,112,Chicago Cubs,Pitcher
+0,543228,Yan Gomes,112,Chicago Cubs,Catcher
+0,664023,Ian Happ,112,Chicago Cubs,Outfielder
+0,663538,Nico Hoerner,112,Chicago Cubs,Infielder
+0,543333,Eric Hosmer,112,Chicago Cubs,Infielder
+0,676714,Brandon Hughes,112,Chicago Cubs,Pitcher
+0,668873,Caleb Kilian,112,Chicago Cubs,Pitcher
+0,643410,Mark Leiter Jr.,112,Chicago Cubs,Pitcher
+0,663611,Nick Madrigal,112,Chicago Cubs,Infielder
+0,641820,Trey Mancini,112,Chicago Cubs,Infielder
+0,670156,Miles Mastrobuoni,112,Chicago Cubs,Outfielder
+0,657240,Julian Merryweather,112,Chicago Cubs,Pitcher
+0,670223,Matt Mervis,112,Chicago Cubs,Infielder
+0,621458,Edwin Rios,112,Chicago Cubs,Hitter
+0,621074,Michael Rucker,112,Chicago Cubs,Pitcher
+0,592767,Drew Smyly,112,Chicago Cubs,Pitcher
+0,657006,Justin Steele,112,Chicago Cubs,Pitcher
+0,573186,Marcus Stroman,112,Chicago Cubs,Pitcher
+0,673548,Seiya Suzuki,112,Chicago Cubs,Outfielder
+0,621020,Dansby Swanson,112,Chicago Cubs,Infielder
+0,592791,Jameson Taillon,112,Chicago Cubs,Pitcher
+0,624522,Keegan Thompson,112,Chicago Cubs,Pitcher
+0,620443,Luis Torrens,112,Chicago Cubs,Hitter
+0,676369,Nelson Velazquez,112,Chicago Cubs,Outfielder
+0,669713,Hayden Wesneski,112,Chicago Cubs,Pitcher
+0,621550,Patrick Wisdom,112,Chicago Cubs,Infielder
+0,622075,Yency Almonte,119,Los Angeles Dodgers,Pitcher
+0,605131,Austin Barnes,119,Los Angeles Dodgers,Catcher
+0,605141,Mookie Betts,119,Los Angeles Dodgers,Outfielder
+0,641360,Phil Bickford,119,Los Angeles Dodgers,Pitcher
+0,677865,Justin Bruihl,119,Los Angeles Dodgers,Pitcher
+0,683737,Michael Busch,119,Los Angeles Dodgers,Infielder
+0,657571,Caleb Ferguson,119,Los Angeles Dodgers,Pitcher
+0,518692,Freddie Freeman,119,Los Angeles Dodgers,Infielder
+0,664062,Tony Gonsolin,119,Los Angeles Dodgers,Pitcher
+0,624647,Victor Gonzalez,119,Los Angeles Dodgers,Pitcher
+0,660813,Brusdar Graterol,119,Los Angeles Dodgers,Pitcher
+0,675627,Michael Grove,119,Los Angeles Dodgers,Pitcher
+0,660634,Yonny Hernandez,119,Los Angeles Dodgers,Infielder
+0,518792,Jason Heyward,119,Los Angeles Dodgers,Outfielder
+0,656578,Andre Jackson,119,Los Angeles Dodgers,Pitcher
+0,477132,Clayton Kershaw,119,Los Angeles Dodgers,Pitcher
+0,502110,J.D. Martinez,119,Los Angeles Dodgers,Hitter
+0,669160,Dustin May,119,Los Angeles Dodgers,Pitcher
+0,571946,Shelby Miller,119,Los Angeles Dodgers,Pitcher
+0,571970,Max Muncy,119,Los Angeles Dodgers,Infielder
+0,681546,James Outman,119,Los Angeles Dodgers,Outfielder
+0,444482,David Peralta,119,Los Angeles Dodgers,Outfielder
+0,623465,Evan Phillips,119,Los Angeles Dodgers,Pitcher
+0,596082,Jake Reed,119,Los Angeles Dodgers,Pitcher
+0,500743,Miguel Rojas,119,Los Angeles Dodgers,Infielder
+0,669257,Will Smith,119,Los Angeles Dodgers,Catcher
+0,694813,Gavin Stone,119,Los Angeles Dodgers,Pitcher
+0,593833,Wander Suero,119,Los Angeles Dodgers,Pitcher
+0,592789,Noah Syndergaard,119,Los Angeles Dodgers,Pitcher
+0,621035,Chris Taylor,119,Los Angeles Dodgers,Infielder
+0,572204,Trayce Thompson,119,Los Angeles Dodgers,Outfielder
+0,628711,Julio Urias,119,Los Angeles Dodgers,Pitcher
+0,678246,Miguel Vargas,119,Los Angeles Dodgers,Infielder
+0,681911,Alex Vesia,119,Los Angeles Dodgers,Pitcher
+0,663897,Luke Williams,119,Los Angeles Dodgers,Infielder
+0,642851,Austin Wynns,119,Los Angeles Dodgers,Catcher
+0,656271,Brock Burke,140,Texas Rangers,Pitcher
+0,641540,Dane Dunning,140,Texas Rangers,Pitcher
+0,677649,Ezequiel Duran,140,Texas Rangers,Infielder
+0,543135,Nathan Eovaldi,140,Texas Rangers,Pitcher
+0,666969,Adolis Garcia,140,Texas Rangers,Outfielder
+0,641598,Mitch Garver,140,Texas Rangers,Catcher
+0,592351,Jon Gray,140,Texas Rangers,Pitcher
+0,543257,Robbie Grossman,140,Texas Rangers,Outfielder
+0,571760,Andrew Heaney,140,Texas Rangers,Pitcher
+0,621368,Taylor Hearn,140,Texas Rangers,Pitcher
+0,641680,Jonah Heim,140,Texas Rangers,Catcher
+0,642546,Jonathan Hernandez,140,Texas Rangers,Pitcher
+0,608671,Travis Jankowski,140,Texas Rangers,Outfielder
+0,673962,Josh Jung,140,Texas Rangers,Infielder
+0,453178,Ian Kennedy,140,Texas Rangers,Pitcher
+0,600917,Jose Leclerc,140,Texas Rangers,Pitcher
+0,506702,Sandy Leon,140,Texas Rangers,Catcher
+0,663993,Nathaniel Lowe,140,Texas Rangers,Infielder
+0,543543,Brad Miller,140,Texas Rangers,Hitter
+0,527048,Martin Perez,140,Texas Rangers,Pitcher
+0,666142,Cole Ragans,140,Texas Rangers,Pitcher
+0,666720,Yerry Rodriguez,140,Texas Rangers,Pitcher
+0,622250,Josh Sborz,140,Texas Rangers,Pitcher
+0,608369,Corey Seager,140,Texas Rangers,Infielder
+0,543760,Marcus Semien,140,Texas Rangers,Infielder
+0,669701,Josh H. Smith,140,Texas Rangers,Infielder
+0,519293,Will Smith,140,Texas Rangers,Pitcher
+0,665750,Leody Taveras,140,Texas Rangers,Outfielder
+0,669352,Bubba Thompson,140,Texas Rangers,Outfielder
+0,594798,Jacob deGrom,140,Texas Rangers,Pitcher
+0,650556,Bryan Abreu,117,Houston Astros,Pitcher
+0,547989,Jose Abreu,117,Houston Astros,Infielder
+0,670541,Yordan Alvarez,117,Houston Astros,Outfielder
+0,676625,Rylan Bannon,117,Houston Astros,Infielder
+0,656232,Brandon Bielak,117,Houston Astros,Pitcher
+0,669854,Ronel Blanco,117,Houston Astros,Pitcher
+0,608324,Alex Bregman,117,Houston Astros,Infielder
+0,686613,Hunter Brown,117,Houston Astros,Pitcher
+0,673237,Yainer Diaz,117,Houston Astros,Catcher
+0,643289,Mauricio Dubon,117,Houston Astros,Infielder
+0,641585,J.P. France,117,Houston Astros,Pitcher
+0,657424,Matt Gage,117,Houston Astros,Pitcher
+0,677651,Luis Garcia,117,Houston Astros,Pitcher
+0,682073,David Hensley,117,Houston Astros,Hitter
+0,664299,Cristian Javier,117,Houston Astros,Pitcher
+0,667452,Corey Julks,117,Houston Astros,Outfielder
+0,455117,Martin Maldonado,117,Houston Astros,Catcher
+0,661527,Seth Martinez,117,Houston Astros,Pitcher
+0,664208,Phil Maton,117,Houston Astros,Pitcher
+0,676801,Chas McCormick,117,Houston Astros,Outfielder
+0,676694,Jake Meyers,117,Houston Astros,Outfielder
+0,606160,Rafael Montero,117,Houston Astros,Pitcher
+0,593576,Hector Neris,117,Houston Astros,Pitcher
+0,665161,Jeremy Pena,117,Houston Astros,Infielder
+0,519151,Ryan Pressly,117,Houston Astros,Pitcher
+0,663967,Cesar Salazar,117,Houston Astros,Catcher
+0,592773,Ryne Stanek,117,Houston Astros,Pitcher
+0,663656,Kyle Tucker,117,Houston Astros,Outfielder
+0,664353,Jose Urquidy,117,Houston Astros,Pitcher
+0,664285,Framber Valdez,117,Houston Astros,Pitcher
+0,624414,Christian Arroyo,111,Boston Red Sox,Infielder
+0,678394,Brayan Bello,111,Boston Red Sox,Pitcher
+0,657514,Brennan Bernardino,111,Boston Red Sox,Pitcher
+0,542947,Richard Bleier,111,Boston Red Sox,Pitcher
+0,518489,Ryan Brasier,111,Boston Red Sox,Pitcher
+0,671213,Triston Casas,111,Boston Red Sox,Infielder
+0,644374,Yu Chang,111,Boston Red Sox,Infielder
+0,676710,Kutter Crawford,111,Boston Red Sox,Pitcher
+0,666915,Bobby Dalbec,111,Boston Red Sox,Infielder
+0,646240,Rafael Devers,111,Boston Red Sox,Infielder
+0,680776,Jarren Duran,111,Boston Red Sox,Outfielder
+0,594807,Adam Duvall,111,Boston Red Sox,Outfielder
+0,571771,Enrique Hernandez,111,Boston Red Sox,Infielder
+0,656557,Tanner Houck,111,Boston Red Sox,Pitcher
+0,445276,Kenley Jansen,111,Boston Red Sox,Pitcher
+0,677161,Zack Kelly,111,Boston Red Sox,Pitcher
+0,446372,Corey Kluber,111,Boston Red Sox,Pitcher
+0,455119,Chris Martin,111,Boston Red Sox,Pitcher
+0,624512,Reese McGuire,111,Boston Red Sox,Catcher
+0,672391,Kaleb Ort,111,Boston Red Sox,Pitcher
+0,601713,Nick Pivetta,111,Boston Red Sox,Pitcher
+0,608701,Rob Refsnyder,111,Boston Red Sox,Outfielder
+0,519242,Chris Sale,111,Boston Red Sox,Pitcher
+0,670167,John Schreiber,111,Boston Red Sox,Pitcher
+0,606132,Raimel Tapia,111,Boston Red Sox,Outfielder
+0,457759,Justin Turner,111,Boston Red Sox,Hitter
+0,665839,Enmanuel Valdez,111,Boston Red Sox,Infielder
+0,657077,Alex Verdugo,111,Boston Red Sox,Outfielder
+0,676477,Garrett Whitlock,111,Boston Red Sox,Pitcher
+0,670174,Josh Winckowski,111,Boston Red Sox,Pitcher
+0,657136,Connor Wong,111,Boston Red Sox,Catcher
+0,807799,Masataka Yoshida,111,Boston Red Sox,Outfielder
+0,656061,Albert Abreu,147,New York Yankees,Pitcher
+0,664056,Harrison Bader,147,New York Yankees,Outfielder
+0,641343,Jake Bauers,147,New York Yankees,Outfielder
+0,605155,Colten Brewer,147,New York Yankees,Pitcher
+0,666745,Jhony Brito,147,New York Yankees,Pitcher
+0,665828,Oswaldo Cabrera,147,New York Yankees,Outfielder
+0,641432,Willie Calhoun,147,New York Yankees,Hitter
+0,543037,Gerrit Cole,147,New York Yankees,Pitcher
+0,614173,Franchy Cordero,147,New York Yankees,Outfielder
+0,622772,Jimmy Cordero,147,New York Yankees,Pitcher
+0,641482,Nestor Cortes,147,New York Yankees,Pitcher
+0,518626,Josh Donaldson,147,New York Yankees,Infielder
+0,664314,Estevan Florial,147,New York Yankees,Outfielder
+0,593334,Domingo German,147,New York Yankees,Pitcher
+0,641656,Ian Hamilton,147,New York Yankees,Pitcher
+0,543305,Aaron Hicks,147,New York Yankees,Outfielder
+0,543309,Kyle Higashioka,147,New York Yankees,Catcher
+0,605280,Clay Holmes,147,New York Yankees,Pitcher
+0,592450,Aaron Judge,147,New York Yankees,Outfielder
+0,643396,Isiah Kiner-Falefa,147,New York Yankees,Outfielder
+0,650633,Michael King,147,New York Yankees,Pitcher
+0,518934,DJ LeMahieu,147,New York Yankees,Infielder
+0,642528,Jonathan Loaisiga,147,New York Yankees,Pitcher
+0,676760,Ron Marinaccio,147,New York Yankees,Pitcher
+0,593974,Wandy Peralta,147,New York Yankees,Pitcher
+0,672724,Oswald Peraza,147,New York Yankees,Infielder
+0,598286,Nick Ramirez,147,New York Yankees,Pitcher
+0,519203,Anthony Rizzo,147,New York Yankees,Infielder
+0,657376,Clarke Schmidt,147,New York Yankees,Pitcher
+0,519317,Giancarlo Stanton,147,New York Yankees,Hitter
+0,650402,Gleyber Torres,147,New York Yankees,Infielder
+0,624431,Jose Trevino,147,New York Yankees,Catcher
+0,683011,Anthony Volpe,147,New York Yankees,Infielder
+0,669711,Greg Weissert,147,New York Yankees,Pitcher
+0,621237,Jose Alvarado,143,Philadelphia Phillies,Pitcher
+0,571479,Andrew Bellatti,143,Philadelphia Phillies,Pitcher
+0,664761,Alec Bohm,143,Philadelphia Phillies,Infielder
+0,641401,Connor Brogdon,143,Philadelphia Phillies,Pitcher
+0,592206,Nick Castellanos,143,Philadelphia Phillies,Outfielder
+0,595909,Jake Cave,143,Philadelphia Phillies,Outfielder
+0,665019,Kody Clemens,143,Philadelphia Phillies,Infielder
+0,622554,Seranthony Dominguez,143,Philadelphia Phillies,Pitcher
+0,663559,Bailey Falter,143,Philadelphia Phillies,Pitcher
+0,656495,Dalton Guthrie,143,Philadelphia Phillies,Outfielder
+0,669742,Darick Hall,143,Philadelphia Phillies,Infielder
+0,547180,Bryce Harper,143,Philadelphia Phillies,Hitter
+0,543281,Josh Harrison,143,Philadelphia Phillies,Infielder
+0,656546,Jeff Hoffman,143,Philadelphia Phillies,Pitcher
+0,518886,Craig Kimbrel,143,Philadelphia Phillies,Pitcher
+0,669016,Brandon Marsh,143,Philadelphia Phillies,Outfielder
+0,628708,Yunior Marte,143,Philadelphia Phillies,Pitcher
+0,686842,McKinley Moore,143,Philadelphia Phillies,Pitcher
+0,605400,Aaron Nola,143,Philadelphia Phillies,Pitcher
+0,656814,Luis F. Ortiz,143,Philadelphia Phillies,Pitcher
+0,665506,Cristian Pache,143,Philadelphia Phillies,Outfielder
+0,592663,J.T. Realmuto,143,Philadelphia Phillies,Catcher
+0,650911,Cristopher Sanchez,143,Philadelphia Phillies,Pitcher
+0,656941,Kyle Schwarber,143,Philadelphia Phillies,Hitter
+0,624641,Edmundo Sosa,143,Philadelphia Phillies,Infielder
+0,642397,Gregory Soto,143,Philadelphia Phillies,Pitcher
+0,681082,Bryson Stott,143,Philadelphia Phillies,Infielder
+0,621381,Matt Strahm,143,Philadelphia Phillies,Pitcher
+0,596117,Garrett Stubbs,143,Philadelphia Phillies,Catcher
+0,607208,Trea Turner,143,Philadelphia Phillies,Infielder
+0,607755,Andrew Vasquez,143,Philadelphia Phillies,Pitcher
+0,592836,Taijuan Walker,143,Philadelphia Phillies,Pitcher
+0,554430,Zack Wheeler,143,Philadelphia Phillies,Pitcher
+0,645261,Sandy Alcantara,146,Miami Marlins,Pitcher
+0,650333,Luis Arraez,146,Miami Marlins,Infielder
+0,598264,Matt Barnes,146,Miami Marlins,Pitcher
+0,542932,Jon Berti,146,Miami Marlins,Infielder
+0,623211,Huascar Brazoban,146,Miami Marlins,Pitcher
+0,680814,Peyton Burdick,146,Miami Marlins,Outfielder
+0,665795,Edward Cabrera,146,Miami Marlins,Pitcher
+0,641447,Daniel Castano,146,Miami Marlins,Pitcher
+0,608638,JT Chargois,146,Miami Marlins,Pitcher
+0,665862,Jazz Chisholm Jr.,146,Miami Marlins,Outfielder
+0,643265,Garrett Cooper,146,Miami Marlins,Infielder
+0,456501,Johnny Cueto,146,Miami Marlins,Pitcher
+0,650559,Bryan De La Cruz,146,Miami Marlins,Outfielder
+0,669364,Xavier Edwards,146,Miami Marlins,Infielder
+0,571670,Dylan Floro,146,Miami Marlins,Pitcher
+0,663743,Nick Fortes,146,Miami Marlins,Catcher
+0,541645,Avisail Garcia,146,Miami Marlins,Outfielder
+0,666129,Braxton Garrett,146,Miami Marlins,Pitcher
+0,592346,Chi Chi Gonzalez,146,Miami Marlins,Pitcher
+0,493329,Yuli Gurriel,146,Miami Marlins,Infielder
+0,641658,Garrett Hampson,146,Miami Marlins,Infielder
+0,663773,Bryan Hoeing,146,Miami Marlins,Pitcher
+0,689167,Jeff Lindgren,146,Miami Marlins,Pitcher
+0,666200,Jesus Luzardo,146,Miami Marlins,Pitcher
+0,677053,Andrew Nardi,146,Miami Marlins,Pitcher
+0,543594,Sean Nolin,146,Miami Marlins,Pitcher
+0,595345,Steven Okert,146,Miami Marlins,Pitcher
+0,640462,A.J. Puk,146,Miami Marlins,Pitcher
+0,629498,Johan Quezada,146,Miami Marlins,Pitcher
+0,669432,Trevor Rogers,146,Miami Marlins,Pitcher
+0,660821,Jesus Sanchez,146,Miami Marlins,Outfielder
+0,656945,Tanner Scott,146,Miami Marlins,Pitcher
+0,516416,Jean Segura,146,Miami Marlins,Infielder
+0,656970,Devin Smeltzer,146,Miami Marlins,Pitcher
+0,624585,Jorge Soler,146,Miami Marlins,Hitter
+0,666277,George Soriano,146,Miami Marlins,Pitcher
+0,607732,Jacob Stallings,146,Miami Marlins,Catcher
+0,621563,Joey Wendle,146,Miami Marlins,Infielder
+0,669211,Keegan Akin,110,Baltimore Orioles,Pitcher
+0,641329,Bryan Baker,110,Baltimore Orioles,Pitcher
+0,657508,Mike Baumann,110,Baltimore Orioles,Pitcher
+0,642585,Felix Bautista,110,Baltimore Orioles,Pitcher
+0,621532,Anthony Bemboom,110,Baltimore Orioles,Catcher
+0,680694,Kyle Bradish,110,Baltimore Orioles,Pitcher
+0,666974,Yennier Cano,110,Baltimore Orioles,Pitcher
+0,543056,Danny Coulombe,110,Baltimore Orioles,Pitcher
+0,624428,Adam Frazier,110,Baltimore Orioles,Infielder
+0,502043,Kyle Gibson,110,Baltimore Orioles,Pitcher
+0,670810,Logan Gillaspie,110,Baltimore Orioles,Pitcher
+0,669084,DL Hall,110,Baltimore Orioles,Pitcher
+0,669720,Austin Hays,110,Baltimore Orioles,Outfielder
+0,683002,Gunnar Henderson,110,Baltimore Orioles,Infielder
+0,608344,Cole Irvin,110,Baltimore Orioles,Pitcher
+0,665152,Dean Kremer,110,Baltimore Orioles,Pitcher
+0,622761,Jorge Mateo,110,Baltimore Orioles,Infielder
+0,543510,James McCann,110,Baltimore Orioles,Catcher
+0,663630,Ryan McKenna,110,Baltimore Orioles,Outfielder
+0,663624,Ryan Mountcastle,110,Baltimore Orioles,Infielder
+0,656775,Cedric Mullins,110,Baltimore Orioles,Outfielder
+0,656811,Ryan O'Hearn,110,Baltimore Orioles,Infielder
+0,687401,Joey Ortiz,110,Baltimore Orioles,Infielder
+0,672335,Cionel Perez,110,Baltimore Orioles,Pitcher
+0,680570,Grayson Rodriguez,110,Baltimore Orioles,Pitcher
+0,668939,Adley Rutschman,110,Baltimore Orioles,Catcher
+0,623993,Anthony Santander,110,Baltimore Orioles,Outfielder
+0,669065,Kyle Stowers,110,Baltimore Orioles,Outfielder
+0,602104,Ramon Urias,110,Baltimore Orioles,Infielder
+0,679631,Terrin Vavra,110,Baltimore Orioles,Outfielder
+0,608723,Austin Voth,110,Baltimore Orioles,Pitcher
+0,669330,Tyler Wells,110,Baltimore Orioles,Pitcher
+0,660670,Ronald Acuna Jr.,144,Atlanta Braves,Outfielder
+0,501303,Ehire Adrianza,144,Atlanta Braves,Infielder
+0,645277,Ozzie Albies,144,Atlanta Braves,Infielder
+0,623433,Nick Anderson,144,Atlanta Braves,Pitcher
+0,606115,Orlando Arcia,144,Atlanta Braves,Infielder
+0,445926,Jesse Chavez,144,Atlanta Braves,Pitcher
+0,689266,Dylan Dodd,144,Atlanta Braves,Pitcher
+0,693821,Bryce Elder,144,Atlanta Braves,Pitcher
+0,608331,Max Fried,144,Atlanta Braves,Pitcher
+0,687093,Vaughn Grissom,144,Atlanta Braves,Infielder
+0,671739,Michael Harris II,144,Atlanta Braves,Outfielder
+0,656541,Sam Hilliard,144,Atlanta Braves,Outfielder
+0,628452,Raisel Iglesias,144,Atlanta Braves,Pitcher
+0,641729,Joe Jimenez,144,Atlanta Braves,Pitcher
+0,669276,Dylan Lee,144,Atlanta Braves,Pitcher
+0,476595,Lucas Luetge,144,Atlanta Braves,Pitcher
+0,543521,Collin McHugh,144,Atlanta Braves,Pitcher
+0,621345,A.J. Minter,144,Atlanta Braves,Pitcher
+0,450203,Charlie Morton,144,Atlanta Braves,Pitcher
+0,669221,Sean Murphy,144,Atlanta Braves,Catcher
+0,621566,Matt Olson,144,Atlanta Braves,Infielder
+0,542303,Marcell Ozuna,144,Atlanta Braves,Hitter
+0,607680,Kevin Pillar,144,Atlanta Braves,Outfielder
+0,663586,Austin Riley,144,Atlanta Braves,Infielder
+0,592696,Eddie Rosario,144,Atlanta Braves,Outfielder
+0,669699,Braden Shewmake,144,Atlanta Braves,Infielder
+0,694363,Jared Shuster,144,Atlanta Braves,Pitcher
+0,669256,Nick Solak,144,Atlanta Braves,Outfielder
+0,675911,Spencer Strider,144,Atlanta Braves,Pitcher
+0,543859,Michael Tonkin,144,Atlanta Braves,Pitcher
+0,644433,Chadwick Tromp,144,Atlanta Braves,Catcher
+0,642201,Eli White,144,Atlanta Braves,Outfielder
+0,657140,Kyle Wright,144,Atlanta Braves,Pitcher
+0,489446,Kirby Yates,144,Atlanta Braves,Pitcher
+0,664849,Danny Young,144,Atlanta Braves,Pitcher
+0,518595,Travis d'Arnaud,144,Atlanta Braves,Catcher
+0,605130,Scott Barlow,118,Kansas City Royals,Pitcher
+0,598265,Jackie Bradley Jr.,118,Kansas City Royals,Outfielder
+0,663460,Kris Bubic,118,Kansas City Royals,Pitcher
+0,547973,Aroldis Chapman,118,Kansas City Royals,Pitcher
+0,664199,Taylor Clarke,118,Kansas City Royals,Pitcher
+0,669395,Dylan Coleman,118,Kansas City Royals,Pitcher
+0,680735,Austin Cox,118,Kansas City Royals,Pitcher
+0,621016,Jose Cuas,118,Kansas City Royals,Pitcher
+0,641531,Hunter Dozier,118,Kansas City Royals,Infielder
+0,622110,Matt Duffy,118,Kansas City Royals,Infielder
+0,681987,Nate Eaton,118,Kansas City Royals,Outfielder
+0,666023,Freddy Fermin,118,Kansas City Royals,Catcher
+0,672580,Maikel Garcia,118,Kansas City Royals,Infielder
+0,607237,Amir Garrett,118,Kansas City Royals,Pitcher
+0,425844,Zack Greinke,118,Kansas City Royals,Pitcher
+0,669169,Jonathan Heasley,118,Kansas City Royals,Pitcher
+0,672578,Carlos Hernandez,118,Kansas City Royals,Pitcher
+0,664728,Kyle Isbel,118,Kansas City Royals,Outfielder
+0,641745,Brad Keller,118,Kansas City Royals,Pitcher
+0,670032,Nicky Lopez,118,Kansas City Royals,Infielder
+0,543475,Jordan Lyles,118,Kansas City Royals,Pitcher
+0,686681,Michael Massey,118,Kansas City Royals,Infielder
+0,669004,MJ Melendez,118,Kansas City Royals,Outfielder
+0,658668,Edward Olivares,118,Kansas City Royals,Outfielder
+0,686469,Vinnie Pasquantino,118,Kansas City Royals,Infielder
+0,521692,Salvador Perez,118,Kansas City Royals,Catcher
+0,668472,Nick Pratto,118,Kansas City Royals,Outfielder
+0,614177,Franmil Reyes,118,Kansas City Royals,Hitter
+0,663903,Brady Singer,118,Kansas City Royals,Pitcher
+0,622251,Josh Staumont,118,Kansas City Royals,Pitcher
+0,657031,Josh Taylor,118,Kansas City Royals,Pitcher
+0,677951,Bobby Witt Jr.,118,Kansas City Royals,Infielder
+0,642232,Ryan Yarbrough,118,Kansas City Royals,Pitcher
+0,641302,Tyler Alexander,116,Detroit Tigers,Pitcher
+0,668731,Akil Baddoo,116,Detroit Tigers,Outfielder
+0,595879,Javier Baez,116,Detroit Tigers,Infielder
+0,571510,Matthew Boyd,116,Detroit Tigers,Pitcher
+0,408234,Miguel Cabrera,116,Detroit Tigers,Hitter
+0,681481,Kerry Carpenter,116,Detroit Tigers,Outfielder
+0,542585,Jose Cisnero,116,Detroit Tigers,Pitcher
+0,669438,Mason Englert,116,Detroit Tigers,Pitcher
+0,671345,Jason Foley,116,Detroit Tigers,Pitcher
+0,682985,Riley Greene,116,Detroit Tigers,Outfielder
+0,606992,Eric Haase,116,Detroit Tigers,Catcher
+0,682051,Garrett Hill,116,Detroit Tigers,Pitcher
+0,663947,Tyler Holton,116,Detroit Tigers,Pitcher
+0,628451,Andy Ibanez,116,Detroit Tigers,Infielder
+0,668952,Ryan Kreidler,116,Detroit Tigers,Infielder
+0,656638,Alex Lange,116,Detroit Tigers,Pitcher
+0,547179,Michael Lorenzen,116,Detroit Tigers,Pitcher
+0,666159,Matt Manning,116,Detroit Tigers,Pitcher
+0,665155,Nick Maton,116,Detroit Tigers,Infielder
+0,656716,Zach McKinstry,116,Detroit Tigers,Infielder
+0,640457,Austin Meadows,116,Detroit Tigers,Outfielder
+0,663527,Tyler Nevin,116,Detroit Tigers,Infielder
+0,593958,Eduardo Rodriguez,116,Detroit Tigers,Pitcher
+0,668670,Jake Rogers,116,Detroit Tigers,Catcher
+0,570731,Jonathan Schoop,116,Detroit Tigers,Infielder
+0,670097,Zack Short,116,Detroit Tigers,Infielder
+0,592741,Chasen Shreve,116,Detroit Tigers,Pitcher
+0,679529,Spencer Torkelson,116,Detroit Tigers,Infielder
+0,605513,Spencer Turnbull,116,Detroit Tigers,Pitcher
+0,676684,Will Vest,116,Detroit Tigers,Pitcher
+0,663837,Matt Vierling,116,Detroit Tigers,Outfielder
+0,666214,Joey Wentz,116,Detroit Tigers,Pitcher
+0,622259,Trey Wingenter,116,Detroit Tigers,Pitcher
+0,592094,Jason Adam,139,Tampa Bay Rays,Pitcher
+0,502624,Chase Anderson,139,Tampa Bay Rays,Pitcher
+0,668227,Randy Arozarena,139,Tampa Bay Rays,Outfielder
+0,656222,Jalen Beeks,139,Tampa Bay Rays,Pitcher
+0,542194,Christian Bethancourt,139,Tampa Bay Rays,Catcher
+0,671737,Taj Bradley,139,Tampa Bay Rays,Pitcher
+0,668754,Braden Bristo,139,Tampa Bay Rays,Pitcher
+0,660644,Vidal Brujan,139,Tampa Bay Rays,Outfielder
+0,641420,Zack Burdi,139,Tampa Bay Rays,Pitcher
+0,630023,Yonny Chirinos,139,Tampa Bay Rays,Pitcher
+0,664076,Garrett Cleavinger,139,Tampa Bay Rays,Pitcher
+0,681867,Cooper Criswell,139,Tampa Bay Rays,Pitcher
+0,650490,Yandy Diaz,139,Tampa Bay Rays,Infielder
+0,621107,Zach Eflin,139,Tampa Bay Rays,Pitcher
+0,664126,Pete Fairbanks,139,Tampa Bay Rays,Pitcher
+0,676534,Calvin Faucher,139,Tampa Bay Rays,Pitcher
+0,676596,Josh Fleming,139,Tampa Bay Rays,Pitcher
+0,677551,Wander Franco,139,Tampa Bay Rays,Infielder
+0,642770,Javy Guerra,139,Tampa Bay Rays,Pitcher
+0,592390,Heath Hembree,139,Tampa Bay Rays,Pitcher
+0,665001,Trevor Kelley,139,Tampa Bay Rays,Pitcher
+0,687330,Kevin Kelly,139,Tampa Bay Rays,Pitcher
+0,664040,Brandon Lowe,139,Tampa Bay Rays,Infielder
+0,666139,Josh Lowe,139,Tampa Bay Rays,Outfielder
+0,622534,Manuel Margot,139,Tampa Bay Rays,Outfielder
+0,663556,Shane McClanahan,139,Tampa Bay Rays,Pitcher
+0,642336,Francisco Mejia,139,Tampa Bay Rays,Catcher
+0,670623,Isaac Paredes,139,Tampa Bay Rays,Infielder
+0,621363,Colin Poche,139,Tampa Bay Rays,Pitcher
+0,670042,Luke Raley,139,Tampa Bay Rays,Outfielder
+0,623912,Harold Ramirez,139,Tampa Bay Rays,Hitter
+0,656876,Drew Rasmussen,139,Tampa Bay Rays,Pitcher
+0,642350,Jose Siri,139,Tampa Bay Rays,Outfielder
+0,605488,Jeffrey Springs,139,Tampa Bay Rays,Pitcher
+0,657044,Ryan Thompson,139,Tampa Bay Rays,Pitcher
+0,670764,Taylor Walls,139,Tampa Bay Rays,Infielder
+0,542914,Anthony Bass,141,Toronto Blue Jays,Pitcher
+0,605135,Chris Bassitt,141,Toronto Blue Jays,Pitcher
+0,474832,Brandon Belt,141,Toronto Blue Jays,Hitter
+0,621244,Jose Berrios,141,Toronto Blue Jays,Pitcher
+0,666182,Bo Bichette,141,Toronto Blue Jays,Infielder
+0,624415,Cavan Biggio,141,Toronto Blue Jays,Infielder
+0,656305,Matt Chapman,141,Toronto Blue Jays,Infielder
+0,643256,Adam Cimber,141,Toronto Blue Jays,Pitcher
+0,669289,Santiago Espinal,141,Toronto Blue Jays,Infielder
+0,554340,Yimi Garcia,141,Toronto Blue Jays,Pitcher
+0,592332,Kevin Gausman,141,Toronto Blue Jays,Pitcher
+0,665489,Vladimir Guerrero Jr.,141,Toronto Blue Jays,Infielder
+0,543351,Jay Jackson,141,Toronto Blue Jays,Pitcher
+0,643376,Danny Jansen,141,Toronto Blue Jays,Catcher
+0,595281,Kevin Kiermaier,141,Toronto Blue Jays,Outfielder
+0,579328,Yusei Kikuchi,141,Toronto Blue Jays,Pitcher
+0,672386,Alejandro Kirk,141,Toronto Blue Jays,Catcher
+0,664770,Nathan Lukes,141,Toronto Blue Jays,Outfielder
+0,656669,Jordan Luplow,141,Toronto Blue Jays,Hitter
+0,666201,Alek Manoah,141,Toronto Blue Jays,Pitcher
+0,641835,Tim Mayza,141,Toronto Blue Jays,Pitcher
+0,593160,Whit Merrifield,141,Toronto Blue Jays,Outfielder
+0,663878,Nate Pearson,141,Toronto Blue Jays,Pitcher
+0,647315,Zach Pop,141,Toronto Blue Jays,Pitcher
+0,670950,Trevor Richards,141,Toronto Blue Jays,Pitcher
+0,605447,Jordan Romano,141,Toronto Blue Jays,Pitcher
+0,543807,George Springer,141,Toronto Blue Jays,Outfielder
+0,657024,Erik Swanson,141,Toronto Blue Jays,Pitcher
+0,662139,Daulton Varsho,141,Toronto Blue Jays,Outfielder
+0,671106,Logan Allen,114,Cleveland Guardians,Pitcher
+0,672356,Gabriel Arias,114,Cleveland Guardians,Infielder
+0,685410,Peyton Battenfield,114,Cleveland Guardians,Pitcher
+0,605137,Josh Bell,114,Cleveland Guardians,Hitter
+0,676440,Tanner Bibee,114,Cleveland Guardians,Pitcher
+0,669456,Shane Bieber,114,Cleveland Guardians,Pitcher
+0,686823,Will Brennan,114,Cleveland Guardians,Outfielder
+0,650644,Aaron Civale,114,Cleveland Guardians,Pitcher
+0,661403,Emmanuel Clase,114,Cleveland Guardians,Pitcher
+0,675540,Xzavion Curry,114,Cleveland Guardians,Pitcher
+0,660853,Enyel De Los Santos,114,Cleveland Guardians,Pitcher
+0,671289,Tyler Freeman,114,Cleveland Guardians,Infielder
+0,681807,David Fry,114,Cleveland Guardians,Infielder
+0,683769,Hunter Gaddis,114,Cleveland Guardians,Pitcher
+0,595956,Cam Gallagher,114,Cleveland Guardians,Catcher
+0,665926,Andres Gimenez,114,Cleveland Guardians,Infielder
+0,660757,Oscar Gonzalez,114,Cleveland Guardians,Outfielder
+0,656529,Sam Hentges,114,Cleveland Guardians,Pitcher
+0,682120,Tim Herrin,114,Cleveland Guardians,Pitcher
+0,675916,James Karinchak,114,Cleveland Guardians,Pitcher
+0,680757,Steven Kwan,114,Cleveland Guardians,Outfielder
+0,669212,Eli Morgan,114,Cleveland Guardians,Pitcher
+0,647304,Josh Naylor,114,Cleveland Guardians,Infielder
+0,663455,Konnor Pilkington,114,Cleveland Guardians,Pitcher
+0,668676,Zach Plesac,114,Cleveland Guardians,Pitcher
+0,615698,Cal Quantrill,114,Cleveland Guardians,Pitcher
+0,608070,Jose Ramirez,114,Cleveland Guardians,Infielder
+0,642708,Amed Rosario,114,Cleveland Guardians,Infielder
+0,680704,Nick Sandlin,114,Cleveland Guardians,Pitcher
+0,663986,Trevor Stephan,114,Cleveland Guardians,Pitcher
+0,664702,Myles Straw,114,Cleveland Guardians,Outfielder
+0,650619,Meibrys Viloria,114,Cleveland Guardians,Catcher
+0,572287,Mike Zunino,114,Cleveland Guardians,Catcher
+0,660896,Jorge Alcala,142,Minnesota Twins,Pitcher
+0,621439,Byron Buxton,142,Minnesota Twins,Hitter
+0,650489,Willi Castro,142,Minnesota Twins,Outfielder
+0,621043,Carlos Correa,142,Minnesota Twins,Infielder
+0,661395,Jhoan Duran,142,Minnesota Twins,Pitcher
+0,571657,Kyle Farmer,142,Minnesota Twins,Infielder
+0,608336,Joey Gallo,142,Minnesota Twins,Infielder
+0,664247,Kyle Garlick,142,Minnesota Twins,Outfielder
+0,624503,Nick Gordon,142,Minnesota Twins,Infielder
+0,543243,Sonny Gray,142,Minnesota Twins,Pitcher
+0,687396,Brent Headrick,142,Minnesota Twins,Pitcher
+0,643377,Griffin Jax,142,Minnesota Twins,Pitcher
+0,680777,Ryan Jeffers,142,Minnesota Twins,Catcher
+0,666397,Edouard Julien,142,Minnesota Twins,Infielder
+0,596146,Max Kepler,142,Minnesota Twins,Outfielder
+0,666135,Alex Kirilloff,142,Minnesota Twins,Outfielder
+0,663616,Trevor Larnach,142,Minnesota Twins,Outfielder
+0,605347,Jorge Lopez,142,Minnesota Twins,Pitcher
+0,641154,Pablo Lopez,142,Minnesota Twins,Pitcher
+0,628317,Kenta Maeda,142,Minnesota Twins,Pitcher
+0,641816,Tyler Mahle,142,Minnesota Twins,Pitcher
+0,669304,Jose Miranda,142,Minnesota Twins,Infielder
+0,663558,Jovani Moran,142,Minnesota Twins,Pitcher
+0,641927,Bailey Ober,142,Minnesota Twins,Pitcher
+0,641941,Emilio Pagan,142,Minnesota Twins,Pitcher
+0,593871,Jorge Polanco,142,Minnesota Twins,Infielder
+0,657746,Joe Ryan,142,Minnesota Twins,Pitcher
+0,663485,Cole Sands,142,Minnesota Twins,Pitcher
+0,456781,Donovan Solano,142,Minnesota Twins,Infielder
+0,592779,Brock Stewart,142,Minnesota Twins,Pitcher
+0,572191,Michael A. Taylor,142,Minnesota Twins,Outfielder
+0,573204,Caleb Thielbar,142,Minnesota Twins,Pitcher
+0,686973,Louie Varland,142,Minnesota Twins,Pitcher
+0,543877,Christian Vazquez,142,Minnesota Twins,Catcher
+0,670242,Matt Wallner,142,Minnesota Twins,Outfielder
+0,680739,Josh Winder,142,Minnesota Twins,Pitcher
+0,680573,Simeon Woods Richardson,142,Minnesota Twins,Pitcher
+0,518397,Scott Alexander,137,San Francisco Giants,Pitcher
+0,663698,Joey Bart,137,San Francisco Giants,Catcher
+0,607461,Matt Beaty,137,San Francisco Giants,Hitter
+0,663941,Tristan Beck,137,San Francisco Giants,Pitcher
+0,605154,John Brebbia,137,San Francisco Giants,Pitcher
+0,502171,Alex Cobb,137,San Francisco Giants,Pitcher
+0,624424,Michael Conforto,137,San Francisco Giants,Outfielder
+0,543063,Brandon Crawford,137,San Francisco Giants,Infielder
+0,605204,J.D. Davis,137,San Francisco Giants,Infielder
+0,543101,Anthony DeSclafani,137,San Francisco Giants,Pitcher
+0,666808,Camilo Doval,137,San Francisco Giants,Pitcher
+0,642731,Thairo Estrada,137,San Francisco Giants,Infielder
+0,527038,Wilmer Flores,137,San Francisco Giants,Infielder
+0,571745,Mitch Haniger,137,San Francisco Giants,Outfielder
+0,663546,Sean Hjelle,137,San Francisco Giants,Pitcher
+0,669369,Bryce Johnson,137,San Francisco Giants,Outfielder
+0,596001,Jakob Junis,137,San Francisco Giants,Pitcher
+0,640455,Sean Manaea,137,San Francisco Giants,Pitcher
+0,592626,Joc Pederson,137,San Francisco Giants,Hitter
+0,547379,Roberto Perez,137,San Francisco Giants,Catcher
+0,671218,Heliot Ramos,137,San Francisco Giants,Outfielder
+0,573124,Taylor Rogers,137,San Francisco Giants,Pitcher
+0,643511,Tyler Rogers,137,San Francisco Giants,Pitcher
+0,573131,Darin Ruf,137,San Francisco Giants,Hitter
+0,666165,Blake Sabol,137,San Francisco Giants,Catcher
+0,596103,Austin Slater,137,San Francisco Giants,Outfielder
+0,670276,Cal Stevenson,137,San Francisco Giants,Outfielder
+0,548389,Ross Stripling,137,San Francisco Giants,Pitcher
+0,681584,David Villar,137,San Francisco Giants,Infielder
+0,664774,LaMonte Wade Jr.,137,San Francisco Giants,Outfielder
+0,657277,Logan Webb,137,San Francisco Giants,Pitcher
+0,689172,Brett Wisely,137,San Francisco Giants,Outfielder
+0,622072,Alex Wood,137,San Francisco Giants,Pitcher
+0,642851,Austin Wynns,137,San Francisco Giants,Catcher
+0,573262,Mike Yastrzemski,137,San Francisco Giants,Outfielder
+0,624413,Pete Alonso,121,New York Mets,Infielder
+0,682626,Francisco Alvarez,121,New York Mets,Catcher
+0,683146,Brett Baty,121,New York Mets,Infielder
+0,656257,Jeff Brigham,121,New York Mets,Pitcher
+0,676130,Jose Butto,121,New York Mets,Pitcher
+0,592192,Mark Canha,121,New York Mets,Outfielder
+0,471911,Carlos Carrasco,121,New York Mets,Pitcher
+0,595928,John Curtiss,121,New York Mets,Pitcher
+0,500871,Eduardo Escobar,121,New York Mets,Infielder
+0,641645,Luis Guillorme,121,New York Mets,Infielder
+0,488984,Tommy Hunter,121,New York Mets,Pitcher
+0,608678,Dominic Leone,121,New York Mets,Pitcher
+0,596019,Francisco Lindor,121,New York Mets,Infielder
+0,641796,Tim Locastro,121,New York Mets,Outfielder
+0,664192,Joey Lucchesi,121,New York Mets,Pitcher
+0,516782,Starling Marte,121,New York Mets,Outfielder
+0,643446,Jeff McNeil,121,New York Mets,Infielder
+0,656731,Tylor Megill,121,New York Mets,Pitcher
+0,669105,Zach Muckenhirn,121,New York Mets,Pitcher
+0,553882,Omar Narvaez,121,New York Mets,Catcher
+0,621512,Tomas Nido,121,New York Mets,Catcher
+0,607043,Brandon Nimmo,121,New York Mets,Outfielder
+0,668665,Stephen Nogosek,121,New York Mets,Pitcher
+0,493603,Adam Ottavino,121,New York Mets,Pitcher
+0,656849,David Peterson,121,New York Mets,Pitcher
+0,502054,Tommy Pham,121,New York Mets,Hitter
+0,548384,Brooks Raley,121,New York Mets,Pitcher
+0,660593,Denyi Reyes,121,New York Mets,Pitcher
+0,502085,David Robertson,121,New York Mets,Pitcher
+0,642701,Dennis Santana,121,New York Mets,Pitcher
+0,453286,Max Scherzer,121,New York Mets,Pitcher
+0,673540,Kodai Senga,121,New York Mets,Pitcher
+0,622098,Drew Smith,121,New York Mets,Pitcher
+0,670955,Edwin Uceta,121,New York Mets,Pitcher
+0,434378,Justin Verlander,121,New York Mets,Pitcher
+0,596129,Daniel Vogelbach,121,New York Mets,Hitter
+0,642231,Jimmy Yacabonis,121,New York Mets,Pitcher
+0,676265,Cory Abbott,120,Washington Nationals,Pitcher
+0,682928,CJ Abrams,120,Washington Nationals,Infielder
+0,656180,Riley Adams,120,Washington Nationals,Catcher
+0,607455,Anthony Banda,120,Washington Nationals,Pitcher
+0,669743,Alex Call,120,Washington Nationals,Outfielder
+0,600869,Jeimer Candelario,120,Washington Nationals,Infielder
+0,656308,Michael Chavis,120,Washington Nationals,Infielder
+0,571578,Patrick Corbin,120,Washington Nationals,Pitcher
+0,572816,Corey Dickerson,120,Washington Nationals,Outfielder
+0,669023,Jeter Downs,120,Washington Nationals,Infielder
+0,605218,Carl Edwards Jr.,120,Washington Nationals,Pitcher
+0,640448,Kyle Finnegan,120,Washington Nationals,Pitcher
+0,671277,Luis Garcia,120,Washington Nationals,Infielder
+0,656448,Stone Garrett,120,Washington Nationals,Outfielder
+0,669022,MacKenzie Gore,120,Washington Nationals,Pitcher
+0,680686,Josiah Gray,120,Washington Nationals,Pitcher
+0,665048,Hobie Harris,120,Washington Nationals,Pitcher
+0,640451,Hunter Harvey,120,Washington Nationals,Pitcher
+0,663623,Jake Irvin,120,Washington Nationals,Pitcher
+0,641771,Chad Kuhl,120,Washington Nationals,Pitcher
+0,600921,Andres Machado,120,Washington Nationals,Pitcher
+0,608841,Joey Meneses,120,Washington Nationals,Hitter
+0,541640,Erasmo Ramirez,120,Washington Nationals,Pitcher
+0,645302,Victor Robles,120,Washington Nationals,Outfielder
+0,660688,Keibert Ruiz,120,Washington Nationals,Catcher
+0,642086,Dominic Smith,120,Washington Nationals,Infielder
+0,657041,Lane Thomas,120,Washington Nationals,Outfielder
+0,666168,Mason Thompson,120,Washington Nationals,Pitcher
+0,545121,Ildemaro Vargas,120,Washington Nationals,Infielder
+0,663658,Thaddeus Ward,120,Washington Nationals,Pitcher
+0,607179,Jordan Weems,120,Washington Nationals,Pitcher
+0,592866,Trevor Williams,120,Washington Nationals,Pitcher
+0,571448,Nolan Arenado,138,St. Louis Cardinals,Infielder
+0,668663,Tres Barrera,138,St. Louis Cardinals,Catcher
+0,676475,Alec Burleson,138,St. Louis Cardinals,Outfielder
+0,650893,Genesis Cabrera,138,St. Louis Cardinals,Pitcher
+0,666185,Dylan Carlson,138,St. Louis Cardinals,Outfielder
+0,575929,Willson Contreras,138,St. Louis Cardinals,Catcher
+0,657557,Paul DeJong,138,St. Louis Cardinals,Infielder
+0,680977,Brendan Donovan,138,St. Louis Cardinals,Infielder
+0,669242,Tommy Edman,138,St. Louis Cardinals,Infielder
+0,656427,Jack Flaherty,138,St. Louis Cardinals,Pitcher
+0,606149,Giovanny Gallegos,138,St. Louis Cardinals,Pitcher
+0,502671,Paul Goldschmidt,138,St. Louis Cardinals,Infielder
+0,669357,Nolan Gorman,138,St. Louis Cardinals,Hitter
+0,664854,Ryan Helsley,138,St. Louis Cardinals,Pitcher
+0,663855,Jordan Hicks,138,St. Louis Cardinals,Pitcher
+0,668800,Andrew Knizner,138,St. Louis Cardinals,Catcher
+0,571927,Steven Matz,138,St. Louis Cardinals,Pitcher
+0,571945,Miles Mikolas,138,St. Louis Cardinals,Pitcher
+0,656756,Jordan Montgomery,138,St. Louis Cardinals,Pitcher
+0,600301,Taylor Motter,138,St. Louis Cardinals,Infielder
+0,676050,Packy Naughton,138,St. Louis Cardinals,Pitcher
+0,663457,Lars Nootbaar,138,St. Louis Cardinals,Outfielder
+0,641933,Tyler O'Neill,138,St. Louis Cardinals,Outfielder
+0,669467,Andre Pallante,138,St. Louis Cardinals,Pitcher
+0,668941,JoJo Romero,138,St. Louis Cardinals,Pitcher
+0,608717,Chris Stratton,138,St. Louis Cardinals,Pitcher
+0,668868,Zack Thompson,138,St. Louis Cardinals,Pitcher
+0,572403,Drew VerHagen,138,St. Louis Cardinals,Pitcher
+0,425794,Adam Wainwright,138,St. Louis Cardinals,Pitcher
+0,691023,Jordan Walker,138,St. Louis Cardinals,Outfielder
+0,663765,Jake Woodford,138,St. Louis Cardinals,Pitcher
+0,660766,Juan Yepez,138,St. Louis Cardinals,Outfielder
+0,670871,Guillermo Zuniga,138,St. Louis Cardinals,Pitcher
+0,609280,Miguel Andujar,134,Pittsburgh Pirates,Outfielder
+0,678225,Ji Hwan Bae,134,Pittsburgh Pirates,Outfielder
+0,670280,David Bednar,134,Pittsburgh Pirates,Pitcher
+0,675989,Cody Bolton,134,Pittsburgh Pirates,Pitcher
+0,666801,Rodolfo Castro,134,Pittsburgh Pirates,Infielder
+0,596847,Ji Man Choi,134,Pittsburgh Pirates,Hitter
+0,672710,Roansy Contreras,134,Pittsburgh Pirates,Pitcher
+0,640444,Wil Crowe,134,Pittsburgh Pirates,Pitcher
+0,665833,Oneil Cruz,134,Pittsburgh Pirates,Infielder
+0,608328,Chase De Jong,134,Pittsburgh Pirates,Pitcher
+0,641511,Jason Delay,134,Pittsburgh Pirates,Catcher
+0,663647,Ke'Bryan Hayes,134,Pittsburgh Pirates,Infielder
+0,595978,Austin Hedges,134,Pittsburgh Pirates,Catcher
+0,623168,Tyler Heineman,134,Pittsburgh Pirates,Catcher
+0,669796,Jose Hernandez,134,Pittsburgh Pirates,Pitcher
+0,448179,Rich Hill,134,Pittsburgh Pirates,Pitcher
+0,670059,Colin Holderman,134,Pittsburgh Pirates,Pitcher
+0,656582,Connor Joe,134,Pittsburgh Pirates,Outfielder
+0,656605,Mitch Keller,134,Pittsburgh Pirates,Pitcher
+0,543482,Drew Maggi,134,Pittsburgh Pirates,Infielder
+0,672779,Tucupita Marcano,134,Pittsburgh Pirates,Infielder
+0,664029,Mark Mathias,134,Pittsburgh Pirates,Infielder
+0,457705,Andrew McCutchen,134,Pittsburgh Pirates,Hitter
+0,664294,Dauri Moreta,134,Pittsburgh Pirates,Pitcher
+0,670912,Johan Oviedo,134,Pittsburgh Pirates,Pitcher
+0,670990,Yohan Ramirez,134,Pittsburgh Pirates,Pitcher
+0,668804,Bryan Reynolds,134,Pittsburgh Pirates,Outfielder
+0,467793,Carlos Santana,134,Pittsburgh Pirates,Infielder
+0,675986,Canaan Smith-Njigba,134,Pittsburgh Pirates,Outfielder
+0,596112,Robert Stephenson,134,Pittsburgh Pirates,Pitcher
+0,669261,Jack Suwinski,134,Pittsburgh Pirates,Outfielder
+0,621249,Duane Underwood Jr.,134,Pittsburgh Pirates,Pitcher
+0,592826,Vince Velasquez,134,Pittsburgh Pirates,Pitcher
+0,642239,Rob Zastryzny,134,Pittsburgh Pirates,Pitcher
+0,668933,Graham Ashcraft,113,Cincinnati Reds,Pitcher
+0,676480,Jose Barrero,113,Cincinnati Reds,Infielder
+0,666181,Will Benson,113,Cincinnati Reds,Outfielder
+0,592200,Curt Casali,113,Cincinnati Reds,Catcher
+0,570666,Luis Cessa,113,Cincinnati Reds,Pitcher
+0,518585,Fernando Cruz,113,Cincinnati Reds,Pitcher
+0,664747,Alexis Diaz,113,Cincinnati Reds,Pitcher
+0,656413,Stuart Fairchild,113,Cincinnati Reds,Outfielder
+0,571656,Buck Farmer,113,Cincinnati Reds,Pitcher
+0,641584,Jake Fraley,113,Cincinnati Reds,Outfielder
+0,670770,TJ Friedl,113,Cincinnati Reds,Outfielder
+0,664139,Ian Gibaut,113,Cincinnati Reds,Pitcher
+0,668881,Hunter Greene,113,Cincinnati Reds,Pitcher
+0,643361,Kevin Herget,113,Cincinnati Reds,Pitcher
+0,663697,Jonathan India,113,Cincinnati Reds,Infielder
+0,669270,Joel Kuhnel,113,Cincinnati Reds,Pitcher
+0,571882,Derek Law,113,Cincinnati Reds,Pitcher
+0,668984,Casey Legumina,113,Cincinnati Reds,Pitcher
+0,666157,Nick Lodolo,113,Cincinnati Reds,Pitcher
+0,571912,Luke Maile,113,Cincinnati Reds,Catcher
+0,571976,Wil Myers,113,Cincinnati Reds,Outfielder
+0,621028,Kevin Newman,113,Cincinnati Reds,Infielder
+0,656818,Connor Overton,113,Cincinnati Reds,Pitcher
+0,592656,Henry Ramos,113,Cincinnati Reds,Outfielder
+0,608703,Matt Reynolds,113,Cincinnati Reds,Infielder
+0,665665,Reiver Sanmartin,113,Cincinnati Reds,Pitcher
+0,669222,Nick Senzel,113,Cincinnati Reds,Outfielder
+0,608371,Lucas Sims,113,Cincinnati Reds,Pitcher
+0,668715,Spencer Steer,113,Cincinnati Reds,Infielder
+0,663886,Tyler Stephenson,113,Cincinnati Reds,Catcher
+0,686651,Levi Stoudt,113,Cincinnati Reds,Pitcher
+0,613564,Jason Vosler,113,Cincinnati Reds,Infielder
+0,596133,Luke Weaver,113,Cincinnati Reds,Pitcher
+0,622065,Alex Young,113,Cincinnati Reds,Pitcher
