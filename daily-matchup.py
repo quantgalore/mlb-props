@@ -92,6 +92,8 @@ for game_id in game_id_list:
     
     start = datetime.now()
     
+    home_batting_matchup, away_batting_matchup = [], []
+    
     Game = Schedule_DataFrame[Schedule_DataFrame["game_id"] == game_id]
     
     home_team_name, home_team_id = Game["home_name"].iloc[0], Game["home_id"].iloc[0]
@@ -101,10 +103,7 @@ for game_id in game_id_list:
     away_probable_pitcher = Game["away_probable_pitcher"].iloc[0]
     
     game_boxscore = statsapi.boxscore_data(game_id)
-    
-    home_batting_matchup = []
-    away_batting_matchup = []
-    
+        
     all_home_players = game_boxscore["home"]["players"]
     
     home_players_list = []
