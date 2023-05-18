@@ -402,8 +402,8 @@ print(f"Unique Games: {len(game_matchup_dataframe['game_id'].drop_duplicates())}
 engine = sqlalchemy.create_engine()
 
 existing_data = pd.read_sql("SELECT * FROM baseball_historical_matchup", con = engine)
-existing_data["batter_game"] = existing_data["batting_id"] + existing_data["game_id"]
-game_matchup_dataframe["batter_game"] = game_matchup_dataframe["batting_id"].astype(float) + game_matchup_dataframe["game_id"].astype(float)
+existing_data["batter_game"] = existing_data["batting_id"].astype(str)  + existing_data["game_id"].astype(str) 
+game_matchup_dataframe["batter_game"] = game_matchup_dataframe["batting_id"].astype(str) + game_matchup_dataframe["game_id"].astype(str)
 new_data = game_matchup_dataframe[~game_matchup_dataframe["batter_game"].isin(existing_data["batter_game"])]
 new_data = new_data.drop("batter_game", axis = 1)
 
