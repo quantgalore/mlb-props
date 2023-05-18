@@ -87,6 +87,8 @@ game_matchups = []
 start = datetime.now()
 
 for game_id in game_id_list:
+    
+    home_batting_matchup, away_batting_matchup = [], []
        
     Game = Schedule_DataFrame[Schedule_DataFrame["game_id"] == game_id]
     
