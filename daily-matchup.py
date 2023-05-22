@@ -103,7 +103,7 @@ for game_id in game_id_list:
     away_probable_pitcher = Game["away_probable_pitcher"].iloc[0]
     
     game_boxscore = statsapi.boxscore_data(game_id)
-        
+    
     all_home_players = game_boxscore["home"]["players"]
     
     home_players_list = []
@@ -134,6 +134,9 @@ for game_id in game_id_list:
         if len(valid_home_batter_season_stats) < 1:
             
             valid_home_batter_season_stats = home_batter_stats[home_batter_stats["season"] == str(2023)]["stats"].drop_duplicates(keep = "last")           
+            
+        if len(valid_home_batter_season_stats) < 1:
+            continue
             
         season_batter_stats = valid_home_batter_season_stats.iloc[0]
         season_batter_stats["name"] = home_batters["name"][home_batters["id"] == home_batter].iloc[0]
@@ -220,6 +223,9 @@ for game_id in game_id_list:
         
         if len(valid_away_batter_season_stats) < 1:
             valid_away_batter_season_stats = away_batter_stats[away_batter_stats["season"] == str(2023)]["stats"].tail(1)
+            
+        if len(valid_away_batter_season_stats) < 1:
+            continue
         
         season_batter_stats = valid_away_batter_season_stats.iloc[0]
         season_batter_stats["name"] = away_batters["name"][away_batters["id"] == away_batter].iloc[0]

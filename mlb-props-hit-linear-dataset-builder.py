@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 20 08:59:30 2023
+Created on Thu May 18 12:11:20 2023
 
 @author: Local User
 """
@@ -79,7 +79,8 @@ day_before_yesterday = (datetime.today() - timedelta(days = 2)).strftime("%Y-%m-
 Schedule = statsapi.schedule(start_date = day_before_yesterday, end_date = yesterday)
 # Schedule = statsapi.schedule(start_date = "2023-04-01", end_date = yesterday)
 Schedule_DataFrame = pd.json_normalize(Schedule)
-  
+Schedule_DataFrame["game_datetime"] = pd.to_datetime(Schedule_DataFrame["game_datetime"])
+
 game_id_list = list(Schedule_DataFrame["game_id"].drop_duplicates())
 
 game_matchups = []
@@ -149,13 +150,7 @@ for game_id in game_id_list:
                 
                 home_batter_game_day_stats = all_home_players[f"ID{home_batter}"]["stats"]["batting"]
                 
-                if home_batter_game_day_stats["hits"] < 1:
-                    
-                    hit_recorded = 0
-                    
-                elif home_batter_game_day_stats["hits"] >= 1:
-                    
-                    hit_recorded = 1
+                hit_recorded = home_batter_game_day_stats["hits"]
                     
                 season_batter_stats["hit_recorded"] = hit_recorded
                 home_batter_stats_list.append(season_batter_stats)
@@ -249,14 +244,8 @@ for game_id in game_id_list:
                 
                 away_batter_game_day_stats = all_away_players[f"ID{away_batter}"]["stats"]["batting"]
                 
-                if away_batter_game_day_stats["hits"] < 1:
-                    
-                    hit_recorded = 0
-                    
-                elif away_batter_game_day_stats["hits"] >= 1:
-                    
-                    hit_recorded = 1
-                    
+                hit_recorded = away_batter_game_day_stats["hits"]
+                
                 season_batter_stats["hit_recorded"] = hit_recorded
                 away_batter_stats_list.append(season_batter_stats)
             
@@ -401,7 +390,7 @@ print(f"Unique Games: {len(game_matchup_dataframe['game_id'].drop_duplicates())}
 
 engine = sqlalchemy.create_engine('mysql+mysqlconnector://dbadmin:XBCy9erLMMWC2xUJesy5@qg-aws-v2.cm3csfkhhqeu.us-east-1.rds.amazonaws.com:3306/qgv2')
 
-existing_data = pd.read_sql("SELECT * FROM baseball_historical_matchup", con = engine)
+existing_data = pd.read_sql("SELECT * FROM baseball_historical_matchup_regression", con = engine)
 existing_data["batter_game"] = existing_data["batting_id"].astype(str) + existing_data["game_id"].astype(str)
 game_matchup_dataframe["batter_game"] = game_matchup_dataframe["batting_id"].astype(str) + game_matchup_dataframe["game_id"].astype(str)
 new_data = game_matchup_dataframe[~game_matchup_dataframe["batter_game"].isin(existing_data["batter_game"])]
@@ -409,10 +398,14 @@ new_data = new_data.drop("batter_game", axis = 1)
 
 if len(new_data) >= 1:
 
-    new_data.to_sql("baseball_historical_matchup", con = engine, if_exists = "append")
-    # game_matchup_dataframe.to_sql("baseball_historical_matchup", con = engine, if_exists = "append")
+    new_data.to_sql("baseball_historical_matchup_regression", con = engine, if_exists = "append")
+    
+    # start = datetime.now()
+    # game_matchup_dataframe.to_sql("baseball_historical_matchup_regression", con = engine, if_exists = "append")
+    # end = datetime.now()
+    # print(f"Elapsed Time: {end - start}")
     
     print(len(new_data))
 
 # with engine.connect() as conn:
-#     result = conn.execute(sqlalchemy.text('DROP TABLE baseball_historical_matchup'))
+#     result = conn.execute(sqlalchemy.text('DROP TABLE baseball_historical_matchup_regression'))
