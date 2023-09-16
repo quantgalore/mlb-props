@@ -388,7 +388,7 @@ print(f"Elapsed Time: {end - start}")
 game_matchup_dataframe = pd.concat(game_matchups).dropna()
 print(f"Unique Games: {len(game_matchup_dataframe['game_id'].drop_duplicates())}")
 
-engine = sqlalchemy.create_engine('mysql+mysqlconnector://dbadmin:XBCy9erLMMWC2xUJesy5@qg-aws-v2.cm3csfkhhqeu.us-east-1.rds.amazonaws.com:3306/qgv2')
+engine = sqlalchemy.create_engine('mysql+mysqlconnector://username:password@database-host-name:3306/database-name')
 
 existing_data = pd.read_sql("SELECT * FROM baseball_historical_matchup_regression", con = engine)
 existing_data["batter_game"] = existing_data["batting_id"].astype(str) + existing_data["game_id"].astype(str)
